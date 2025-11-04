@@ -40,6 +40,6 @@ We are going to implement the solution using the following steps to implement th
 8. Push the updated code to the GitHub repository, triggering the Cloud Build and Cloud Deploy processes.
 
    If you encounter any confusion, please refer to the [Video](https://youtu.be/L_1qbt-Iii0?feature=shared)
- linked at the beginning of the blog.
+ linked at the beginning of the blog...
 
 
